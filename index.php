@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 require('fpdf/fpdf.php');
 
 class PDF extends FPDF
 {
-// Cabecera de página
+// Cabecera de página 2
 function Header()
 {
    
