@@ -4,6 +4,7 @@ require('fpdf/fpdf.php');
 class PDF extends FPDF
 {
 // Cabecera de página 2
+    //henry aprende git 
 function Header()
 {
    
